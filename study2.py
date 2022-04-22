@@ -19,3 +19,6 @@ else:
         else:
             result += fmax
 print(result)
+#3 10 4
+#4 8 9
+#입력 시 9+9+9+9+8+9+9+9+9+8 = 88 이라는 결과가 나옴
