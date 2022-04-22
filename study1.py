@@ -25,4 +25,3 @@ def gmoney2(rmoney):
 
 gmoney2(21320)
 #위와 똑같은 출력
-    
